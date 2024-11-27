@@ -24,7 +24,7 @@ NutriTrack is a simple calorie counter app built with vanilla JavaScript. It hel
 - HTML
 - CSS
 - JavaScript
-
+- Bootstrap
 ---
 
 ## License
