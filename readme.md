@@ -1,4 +1,4 @@
-# NutriTrack App
+# NutriTrack
 
 NutriTrack is a simple calorie counter app built with vanilla JavaScript. It helps you track your meals and workouts while calculating total calories consumed and burned.
 
