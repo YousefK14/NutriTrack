@@ -15,7 +15,7 @@ NutriTrack is a simple calorie counter app built with vanilla JavaScript. It hel
 
 ## Screenshot
 
-<img src="./assets/homescreen.png" alt="NutriTrack App Screenshot" width="800">
+![Homescreen](homescreen.png)
 
 ---
 
