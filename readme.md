@@ -1,6 +1,33 @@
-# Tracalorie App
+# NutriTrack App
 
-This is a simple calorie counter app built with vanilla JavaScript. It tracks your meals and workouts and calculates the total calories burned and consumed.
+NutriTrack is a simple calorie counter app built with vanilla JavaScript. It helps you track your meals and workouts while calculating total calories consumed and burned.
 
+---
 
-<img src="assets/homescreen.png">
+## Features
+
+- Track meals and workouts.
+- Set daily calorie goals.
+- Calculate calorie balance.
+- Reset data for a fresh start.
+
+---
+
+## Screenshot
+
+<img src="./assets/homescreen.png" alt="NutriTrack App Screenshot" width="800">
+
+---
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## License
+
+[MIT License](LICENSE)
+****
